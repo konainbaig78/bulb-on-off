@@ -1,0 +1,15 @@
+.btn_container{
+    margin-top: 50px;
+}
+.bulb_btn{
+  font-family:monospace ;
+  font-weight: normal;
+    width: 150px;
+    height: 50px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    background: rebeccapurple;
+    color: white;
+    font-size: 30px;
+}
